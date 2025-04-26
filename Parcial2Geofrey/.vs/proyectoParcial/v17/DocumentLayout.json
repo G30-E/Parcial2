@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoparcial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|c:\\users\\andru\\onedrive\\desktop\\proyectoparcial\\proyectoparcial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|c:\\users\\andru\\onedrive\\desktop\\proyectoparcial\\proyectoparcial\\proyectoparcial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\proyectoparcial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|c:\\users\\andru\\onedrive\\desktop\\proyectoparcial\\proyectoparcial\\form2jugadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\form2jugadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|c:\\users\\andru\\onedrive\\desktop\\proyectoparcial\\proyectoparcial\\inventario1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\inventario1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|c:\\users\\andru\\onedrive\\desktop\\proyectoparcial\\proyectoparcial\\inventario1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\inventario1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|c:\\users\\andru\\onedrive\\desktop\\proyectoparcial\\proyectoparcial\\utils\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\utils\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoparcial\\form2jugadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\form2jugadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|c:\\users\\andru\\onedrive\\desktop\\proyectoparcial\\proyectoparcial\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|c:\\users\\andru\\onedrive\\desktop\\proyectoparcial\\proyectoparcial\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|c:\\users\\andru\\onedrive\\desktop\\proyectoparcial\\proyectoparcial\\services\\bloqueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\services\\bloqueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|c:\\users\\andru\\onedrive\\desktop\\proyectoparcial\\proyectoparcial\\services\\jugadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\services\\jugadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|c:\\users\\andru\\onedrive\\desktop\\proyectoparcial\\proyectoparcial\\login1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\login1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|c:\\users\\andru\\onedrive\\desktop\\proyectoparcial\\proyectoparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|c:\\users\\andru\\onedrive\\desktop\\proyectoparcial\\proyectoparcial\\models\\bloque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\models\\bloque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|c:\\users\\andru\\onedrive\\desktop\\proyectoparcial\\proyectoparcial\\models\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\models\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|c:\\users\\andru\\onedrive\\desktop\\proyectoparcial\\proyectoparcial\\login1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\login1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|c:\\users\\andru\\onedrive\\desktop\\proyectoparcial\\proyectoparcial\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|c:\\users\\andru\\onedrive\\desktop\\proyectoparcial\\proyectoparcial\\services\\inventarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\services\\inventarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|c:\\users\\andru\\onedrive\\desktop\\proyectoparcial\\proyectoparcial\\ui\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C8B39D-139F-4E4A-A17D-BE77BF3C404D}|proyectoParcial\\proyectoParcial.csproj|solutionrelative:proyectoparcial\\ui\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inventario1.cs",
+              "DocumentMoniker": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Inventario1.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\Inventario1.cs",
+              "ToolTip": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Inventario1.cs",
+              "RelativeToolTip": "proyectoParcial\\Inventario1.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:04:41.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inventario1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Inventario1.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\Inventario1.cs",
+              "ToolTip": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Inventario1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyectoParcial\\Inventario1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T23:02:22.66Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Utils\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\Utils\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Utils\\DatabaseManager.cs",
+              "RelativeToolTip": "proyectoParcial\\Utils\\DatabaseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:11:33.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "login1.cs",
+              "DocumentMoniker": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\login1.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\login1.cs",
+              "ToolTip": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\login1.cs",
+              "RelativeToolTip": "proyectoParcial\\login1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:08:48.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "login1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\login1.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\login1.cs",
+              "ToolTip": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\login1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyectoParcial\\login1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:06:48.109Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\login.Designer.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\login.Designer.cs",
+              "ToolTip": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\login.Designer.cs",
+              "RelativeToolTip": "proyectoParcial\\login.Designer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwDMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:01:30.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Form1.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\Form1.cs",
+              "ToolTip": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Form1.cs",
+              "RelativeToolTip": "proyectoParcial\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:05:25.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Form1.Designer.cs",
+              "RelativeToolTip": "proyectoParcial\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:06:11.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Form1.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\Form1.cs",
+              "ToolTip": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyectoParcial\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T01:20:02.105Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2Jugadores.cs",
+              "DocumentMoniker": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Form2Jugadores.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\Form2Jugadores.cs",
+              "ToolTip": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Form2Jugadores.cs",
+              "RelativeToolTip": "proyectoParcial\\Form2Jugadores.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:30:55.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2Jugadores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Form2Jugadores.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\Form2Jugadores.cs",
+              "ToolTip": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Form2Jugadores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyectoParcial\\Form2Jugadores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:54:13.369Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JugadorService.cs",
+              "DocumentMoniker": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Services\\JugadorService.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\Services\\JugadorService.cs",
+              "ToolTip": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Services\\JugadorService.cs",
+              "RelativeToolTip": "proyectoParcial\\Services\\JugadorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:08:44.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BloqueService.cs",
+              "DocumentMoniker": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Services\\BloqueService.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\Services\\BloqueService.cs",
+              "ToolTip": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Services\\BloqueService.cs",
+              "RelativeToolTip": "proyectoParcial\\Services\\BloqueService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwLUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:07:18.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\UI\\MenuManager.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\UI\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\UI\\MenuManager.cs",
+              "RelativeToolTip": "proyectoParcial\\UI\\MenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:10:05.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InventarioService.cs",
+              "DocumentMoniker": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Services\\InventarioService.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\Services\\InventarioService.cs",
+              "ToolTip": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Services\\InventarioService.cs",
+              "RelativeToolTip": "proyectoParcial\\Services\\InventarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:08:17.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "proyectoParcial.csproj",
+              "DocumentMoniker": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\proyectoParcial.csproj",
+              "RelativeDocumentMoniker": "proyectoParcial\\proyectoParcial.csproj",
+              "ToolTip": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\proyectoParcial.csproj",
+              "RelativeToolTip": "proyectoParcial\\proyectoParcial.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T02:05:39.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Models\\Jugador.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\Models\\Jugador.cs",
+              "ToolTip": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Models\\Jugador.cs",
+              "RelativeToolTip": "proyectoParcial\\Models\\Jugador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:04:55.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Models\\Inventario.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\Models\\Inventario.cs",
+              "ToolTip": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Models\\Inventario.cs",
+              "RelativeToolTip": "proyectoParcial\\Models\\Inventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:03:56.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Bloque.cs",
+              "DocumentMoniker": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Models\\Bloque.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\Models\\Bloque.cs",
+              "ToolTip": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Models\\Bloque.cs",
+              "RelativeToolTip": "proyectoParcial\\Models\\Bloque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T01:58:25.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Program.cs",
+              "RelativeDocumentMoniker": "proyectoParcial\\Program.cs",
+              "ToolTip": "C:\\Users\\andru\\OneDrive\\Desktop\\proyectoParcial\\proyectoParcial\\Program.cs",
+              "RelativeToolTip": "proyectoParcial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T20:41:07.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
